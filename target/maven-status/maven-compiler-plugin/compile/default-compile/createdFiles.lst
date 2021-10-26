@@ -1,0 +1,6 @@
+metier\Panier.class
+metier\Livre.class
+controller\PanierServlet.class
+dao\DBUtil.class
+metier\Demande.class
+dao\DBLivre.class
